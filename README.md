@@ -18,11 +18,13 @@ Features:
       ✅ Allows users to enter logical addresses and choose an algorithm dynamically
 
 Technologies Used:
+
     *C Programming
     *GTK (for GUI development)
     *Memory Management Concepts (Page Tables, Virtual Memory, Page Replacement)
 
 Usage:
+
     *Enter a logical address in the text box.
     *Select a page replacement algorithm (FIFO, LRU, or Optimal).
     *Click "Access Memory" to simulate memory access.
