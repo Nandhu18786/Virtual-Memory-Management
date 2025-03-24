@@ -1,4 +1,4 @@
-Page Replacement Algorithm Simulator (GTK-based GUI)
+#Page Replacement Algorithm Simulator (GTK-based GUI)
 
 Overview:
 
