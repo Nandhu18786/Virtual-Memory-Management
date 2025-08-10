@@ -33,13 +33,17 @@ Usage:
 
 Screenshots:
 
-      Flowchart:    ![image](https://github.com/user-attachments/assets/9285337a-0144-410a-a847-fc932d2957ee)
+      Flowchart:    
+![image](https://github.com/user-attachments/assets/9285337a-0144-410a-a847-fc932d2957ee)
       
-      Page Replacement Algorithms Window:   ![image](https://github.com/user-attachments/assets/bd241bb5-bbbe-46c8-b971-254f72b91be2)
+      Page Replacement Algorithms Window:   
+![image](https://github.com/user-attachments/assets/bd241bb5-bbbe-46c8-b971-254f72b91be2)
       
-      Accessing the memory:      ![image](https://github.com/user-attachments/assets/ad3d9f1a-d189-4c31-953b-685dd418672f)
+      Accessing the memory:      
+![image](https://github.com/user-attachments/assets/ad3d9f1a-d189-4c31-953b-685dd418672f)
       
-      Finding number of Page hits and Page Faults:![image](https://github.com/user-attachments/assets/cd16c9e9-1bb2-41e5-8cee-dc32f934f41b)
+      Finding number of Page hits and Page Faults:
+![image](https://github.com/user-attachments/assets/cd16c9e9-1bb2-41e5-8cee-dc32f934f41b)
 
 
 
